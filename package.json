@@ -20,7 +20,7 @@
     "react-scripts-ts": "3.1.0"
   },
   "devDependencies": {
-    "@types/jest": "^23.3.1",
+    "@types/jest": "^25.2.1",
     "@types/node": "^10.7.0",
     "@types/react": "^16.4.10",
     "@types/react-dom": "^16.0.7",
